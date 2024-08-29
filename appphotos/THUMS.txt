@@ -1,0 +1,9 @@
+/* media:screen */
+.star img {
+    visibility: hidden;
+}
+
+/* media:print */
+.star img {
+    visibility: visible;
+}
